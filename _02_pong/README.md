@@ -1,4 +1,4 @@
-# Microgolf 02: Pong Ball
+# Pong Ball 02: Pong!
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
@@ -11,7 +11,7 @@
 
 ## Lesson notes
 
-### 01 - Pong
+### 01 - The inspiration
 
 ![Pong](https://upload.wikimedia.org/wikipedia/commons/6/62/Pong_Game_Test2.gif)<br><sup>From [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pong_Game_Test2.gif) under the [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/deed.en) license</sup>
 
