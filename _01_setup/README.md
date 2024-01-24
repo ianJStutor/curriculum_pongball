@@ -10,7 +10,7 @@
 
 ## Source
 
-[Browser Game Starter (beginner)](https://github.com/ianJStutor/curriculum_browser_game_starter/tree/ea0e40031f876042c6a289b83406d749cf4604ab/beginner)
+[Browser Game Starter (beginner)]https://github.com/ianJStutor/curriculum_canvas_starter)
 
 ## Lesson notes
 
