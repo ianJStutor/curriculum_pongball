@@ -2,6 +2,10 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+## Live Site
+
+> [https://ianjstutor.github.io/curriculum_pongball/](https://ianjstutor.github.io/curriculum_pongball/)
+
 ## Curriculum
 
 Complete curriculum and chunked code for teaching (starter) JavaScript engineering through game design in the browser. The final code base is **underdesigned but digestible** by beginner students based on the following proficiency levels:
@@ -33,7 +37,3 @@ Built with vanilla JavaScript, my favorite flavor!
 ## Author
 
 > [Ian Marshall](https://ianjstutor.github.io/ian-marshall/)
-
-## Live Site
-
-> [https://ianjstutor.github.io/curriculum_pongball/](https://ianjstutor.github.io/curriculum_pongball/)
